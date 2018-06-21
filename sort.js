@@ -1,3 +1,5 @@
+// [5, 1, 12, -5, 16, 2, 12, 14]
+
 function selectionSort(arr){
 var minIndex, temp,
 len = arr.length;
